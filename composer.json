@@ -1,0 +1,17 @@
+{
+    "name": "cyril/test",
+    "autoload": {
+        "psr-4": {
+            "Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Cyril"
+        }
+    ],
+    "require": {
+        "php": "^7.4",
+        "doctrine/mongodb-odm": "2.5.5"
+    }
+}
