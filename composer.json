@@ -12,6 +12,6 @@
     ],
     "require": {
         "php": "^7.4",
-        "doctrine/mongodb-odm": "2.5.5"
+        "doctrine/mongodb-odm": "^2.0"
     }
 }
