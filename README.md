@@ -1,6 +1,6 @@
 # Getting started
 
-1. Installer l'extension Mongo DB
+1. Installer la base de donnée Mongo DB
    1. Télécharger et installer MongoDB : https://www.mongodb.com/try/download/community
    2. Configurer MongoDB :
       1. Créer un dossier pour stocker les données de la base de données, par exemple C:\data\db. 
